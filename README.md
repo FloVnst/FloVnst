@@ -25,5 +25,4 @@ Hi there 👋
 
 I'm Florian Vaneste, a computer science student at Lens Institute of Technology 😀
 
-
-[![FloVnst's github stats](https://github-readme-stats.vercel.app/api?username=FloVnst&theme=nord&show_icons=true&hide_border=true)](https://github.com/FloVnst)
+<img alt="FloVnst's github stats" src="https://github-readme-stats.vercel.app/api?username=FloVnst&theme=nord&show_icons=true&hide_border=true" width="400px">
