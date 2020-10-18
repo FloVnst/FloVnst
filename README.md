@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F0F0F0?style=flat-square&logo=instagram&link=https://www.instagram.com/flo_vnst/)](https://www.instagram.com/flo_vnst/)
 
 [![FloVnst's github stats](https://github-readme-stats.vercel.app/api?username=FloVnst&show_icons=true&hide_border=true)](https://github.com/FloVnst)
+
+
+Hi there 👋
+
+I'm Florian Vaneste, a computer science student at Lens Institute of Technology 😀
