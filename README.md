@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/FlorianVaneste)](https://www.facebook.com/FlorianVaneste)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2666B2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/florian-vaneste-b13b58195)](https://www.linkedin.com/in/florian-vaneste-b13b58195)
 [![Behance Badge](https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=behance&link=https://www.behance.net/flovnst)](https://www.behance.net/flovnst)
-
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/FlorianVaneste)](https://www.facebook.com/FlorianVaneste)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-F0F0F0?style=flat-square&logo=instagram&link=https://www.instagram.com/flo_vnst/)](https://www.instagram.com/flo_vnst/)
 
 [![FloVnst's github stats](https://github-readme-stats.vercel.app/api?username=FloVnst&show_icons=true&hide_border=true)](https://github.com/FloVnst)
