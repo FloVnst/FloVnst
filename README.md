@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/FlorianVaneste)](https://www.facebook.com/FlorianVaneste)
+[![Behance Badge](https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=behance&link=https://www.behance.net/flovnst)](https://www.behance.net/flovnst)
+
 
 [![FloVnst's github stats](https://github-readme-stats.vercel.app/api?username=FloVnst&show_icons=true&hide_border=true)](https://github.com/FloVnst)
