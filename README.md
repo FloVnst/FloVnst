@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-I'm Florian Vaneste, computer science student at Lens Institute of Technology 😀
+I'm Florian Vaneste, computer science student at Lens Institute of Technology & Symfony / VueJS developper at Wid'op 😀
 
 <a href="https://github.com/FloVnst"><img alt="FloVnst's github stats" src="https://github-readme-stats.vercel.app/api?username=FloVnst&theme=nord&show_icons=true&hide_border=true" width="400px"><a/>
