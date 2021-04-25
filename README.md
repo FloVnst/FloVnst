@@ -26,4 +26,6 @@ Hi there 👋
 
 I'm Florian Vaneste, computer science student at Lens Institute of Technology & Symfony / VueJS intern developper at Wid'op 😀
 
+Check out my [portfolio](https://florian-vaneste.com) to know more about me 😉
+
 <a href="https://github.com/FloVnst"><img alt="FloVnst's github stats" src="https://github-readme-stats.vercel.app/api?username=FloVnst&theme=nord&show_icons=true&hide_border=true" width="400px"><a/>
