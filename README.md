@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-I'm Florian Vaneste, computer science student at INSSET of Saint Quentin, France & Symfony / VueJS developper at Wid'op 😀
+I'm Florian Vaneste, future computer science student at INSSET of Saint Quentin, France & Symfony / VueJS developper at Wid'op 😀
 
 Check out my [portfolio](https://florian-vaneste.com/en) to know more about me 😉
 
