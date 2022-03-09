@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-I'm Florian Vaneste, full stack Web developper at Wid'op, Lille, France 😄.  
+I'm Florian Vaneste, full stack Web developper at Wid'op, 🇫🇷 Lille 😄.  
 
 <a href="https://github.com/FloVnst"><img alt="FloVnst's github stats" src="https://github-readme-stats.vercel.app/api?username=FloVnst&theme=nord&show_icons=true&hide_border=true" width="400px"><a/>
