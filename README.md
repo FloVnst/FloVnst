@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/FloVnst)](https://gitlab.com/FloVnst)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/florian-vaneste/?locale=en_US)](https://www.linkedin.com/in/florian-vaneste/?locale=en_US)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15008929/florian-vaneste)](https://stackoverflow.com/users/15008929/florian-vaneste)
-[![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC_BBz2EHt10Ilt6lUHmdxVA?feature=share)
 [![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/flovnst)  
 
 ---
